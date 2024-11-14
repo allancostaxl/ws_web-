@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+    box-shadow: 0 0 rgb(0,0,0);
+    border: 10px;
+}
+.container h1 {
+    color: red;
+    margin-bottom: 20px;
+}
+.container h2 {
+    color:  tomato;
+  margin-bottom: 10px;
+}
+.container p {
+    color: aliceblue ;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+imagem{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
